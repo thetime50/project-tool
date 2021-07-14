@@ -1,2 +1,1 @@
-# project-tool
-安装一些前端项目用的node工具
+安装一些项目用的node工具

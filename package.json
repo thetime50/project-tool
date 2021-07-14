@@ -1,0 +1,14 @@
+{
+  "name": "project-tool",
+  "version": "1.0.0",
+  "description": "安装一些前端项目用的node工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "super-tinypng": "^1.0.5"
+  }
+}
